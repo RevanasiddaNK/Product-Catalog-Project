@@ -1,2 +1,2 @@
-# Web-Development-Projects
+#Product Catalog Project
 My web development projects
